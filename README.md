@@ -2,7 +2,7 @@
 ### Hi there, I´m Horquidia Lima 👩‍💻
 
 #### About
-I´m a web Developer. And, I´m studying web development at 🚀 [Rocketseat](https://rocketseat.com.br)
+I´m studying web development 
 
 #### Current stack 🧑‍💻
 
